@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BatuhangYT/Pet-Simulator-X/main/Autofarm"))()
